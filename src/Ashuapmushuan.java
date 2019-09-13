@@ -25,7 +25,7 @@ public class Ashuapmushuan {
         
         System.out.println("\n\n");
         System.out.println(">>> Quelques jours plus tard... <<<");
-        injecterModificateurDeGenes(marvin);
+        /*injecterModificateurDeGenes(marvin);*/
         alice.afficherDetails();
         System.out.println();
         bob.afficherDetails();
@@ -34,8 +34,8 @@ public class Ashuapmushuan {
         System.out.println();
         nantucket.afficherDetails();
 	}
-	
 }
+/*
 
 public static void injecterModificateurDeGenes(OrignalExperimental orignal) {
     OrignalExperimental.setEstRadioactif(true);
@@ -65,7 +65,7 @@ public static void injecterModificateurDeGenes(OrignalExperimental orignal) {
 }
 }
 
-
+*/
 
 
 
